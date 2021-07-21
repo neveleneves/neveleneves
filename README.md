@@ -1,4 +1,4 @@
-![Profile Preview](https://github.com/neveleneves/neveleneves/blob/master/profile_preview.png)
+![Profile Preview](https://github.com/neveleneves/neveleneves/blob/master/profile_preview1.png)
 
 <!--
 **neveleneves/neveleneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
