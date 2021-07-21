@@ -16,3 +16,6 @@ I have experience with the following technologies:
 * AJAX, REST API 
 * Patterns, BEM, CSS-Modules
 * Figma
+
+## GitHub Stats⭐
+![NeveleNeves's GitHub stats](https://github-readme-stats.vercel.app/api?username=neveleneves&show_icons=true&theme=radical)
