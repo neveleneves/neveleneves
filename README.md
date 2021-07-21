@@ -18,5 +18,5 @@ I have experience with the following technologies:
 * Figma
 
 ## GitHub Stats⭐
-![NeveleNeves's GitHub stats](https://github-readme-stats.vercel.app/api?username=neveleneves&show_icons=true&title_color=00E0FF&text_color=FFFFFF&theme=tokyonight&bg_color=000000&icon_color=00E0FF) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neveleneves&card_width=520&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+![NeveleNeves's GitHub stats](https://github-readme-stats.vercel.app/api?username=neveleneves&show_icons=true&title_color=00E0FF&text_color=FFFFFF&theme=tokyonight&bg_color=000000&icon_color=00E0FF) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neveleneves&card_width=515&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
