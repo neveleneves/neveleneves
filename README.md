@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Profile Preview](https://github.com/neveleneves/neveleneves/blob/master/profile_preview.png)
 
 <!--
