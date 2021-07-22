@@ -3,9 +3,9 @@
 ![Profile Preview](https://github.com/neveleneves/neveleneves/blob/master/profile_preview1.png)
 I'm a Front-End Developer of Web. I have a passion for learning and sharing my knowledge with others. If you found value in something I have created, please feel free to give me a shout out!♥
 
-[<img src="https://img.shields.io/badge/Telegram-%40nevelenevess-blue">](https://t.me/nevelenevess)
-[<img src="https://img.shields.io/badge/Linkedin-%40neveleneves-blue">](https://www.linkedin.com/in/neveleneves/)
-[<img src="https://img.shields.io/badge/Email-max.nikonov.work@gmail.com-blue">](mailto:max.nikonov.work@gmail.com)
+[<img src="https://img.shields.io/badge/Telegram-%40nevelenevess-00E0FF">](https://t.me/nevelenevess)
+[<img src="https://img.shields.io/badge/Linkedin-%40neveleneves-00E0FF">](https://www.linkedin.com/in/neveleneves/)
+[<img src="https://img.shields.io/badge/Email-max.nikonov.work@gmail.com-00E0FF">](mailto:max.nikonov.work@gmail.com)
 <img src="https://gpvc.arturio.dev/neveleneves" alt="profile views"> 
 
 ## My focus⚡️
