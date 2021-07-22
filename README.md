@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my GitHub!
 
-![Profile Preview](https://github.com/neveleneves/neveleneves/blob/master/profile_preview1.png)
+[<img src="https://github.com/neveleneves/neveleneves/blob/master/profile_preview1.png">](https://neveleneves.io)
 I'm a Front-End Developer of Web. I have a passion for learning and sharing my knowledge with others. If you found value in something I have created, please feel free to give me a shout out!♥
 
 [<img src="https://img.shields.io/badge/Telegram-%40nevelenevess-blue">](https://t.me/nevelenevess)
