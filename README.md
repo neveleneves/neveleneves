@@ -5,7 +5,7 @@ I'm a Front-End Developer of Web. I have a passion for learning and sharing my k
 
 ![visitors](https://pageview.vercel.app/?github_user=neveleneves)
 [<img src="https://img.shields.io/badge/Telegram-%40neveleneves-blue">](https://t.me/nevelenevess)
-[<img src="https://img.shields.io/badge/Email-max%40.nikonov.work">](mailto:max.nikonov.work@gmail.com)
+[<img src="https://img.shields.io/badge/Email-%40max.nikonov.work">](mailto:max.nikonov.work@gmail.com)
 
 ## My focus⚡️
 Currently improving my Front-end (ReactJS) and Back-end (NodeJS, ExpressJS) skills.
