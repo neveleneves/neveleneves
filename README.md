@@ -17,9 +17,8 @@ I have experience with the following technologies:
 * <img src="https://img.shields.io/badge/Webpack-282C34?logo=webpack&logoColor=FFFFFF" alt="Webpack logo" title="Webpack" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Babel-282C34?logo=babel&logoColor=F7DF1E" alt="Babel logo" title="Babel" height="25" />&nbsp;
 * <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Babel-282C34?logo=babel&logoColor=F7DF1E" alt="Babel logo" title="Babel" height="25" />&nbsp;
 * Patterns, BEM, CSS-Modules
-* Figma
+* <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />&nbsp;
 
 ## GitHub Stats⭐
 ![NeveleNeves's GitHub stats](https://github-readme-stats.vercel.app/api?username=neveleneves&show_icons=true&title_color=00E0FF&text_color=FFFFFF&theme=tokyonight&bg_color=000000&icon_color=00E0FF)
