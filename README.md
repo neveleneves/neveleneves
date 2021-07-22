@@ -4,8 +4,8 @@
 I'm a Front-End Developer of Web. I have a passion for learning and sharing my knowledge with others. If you found value in something I have created, please feel free to give me a shout out on [Linkedin](https://www.linkedin.com/in/neveleneves/)!♥
 
 ![visitors](https://pageview.vercel.app/?github_user=neveleneves)
-[<img src="https://img.shields.io/badge/Telegram-%40Neveleneves">](https://t.me/nevelenevess)
-[<img src="https://img.shields.io/badge/Email-moe%40max.nikonov.work">](mailto:max.nikonov.work@gmail.com)
+[<img src="https://img.shields.io/badge/Telegram-%40neveleneves-blue">](https://t.me/nevelenevess)
+[<img src="https://img.shields.io/badge/Email-max%40.nikonov.work">](mailto:max.nikonov.work@gmail.com)
 
 ## My focus⚡️
 Currently improving my Front-end (ReactJS) and Back-end (NodeJS, ExpressJS) skills.
