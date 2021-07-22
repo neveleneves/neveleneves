@@ -19,6 +19,8 @@ I have experience with the following technologies:
 <img src="https://img.shields.io/badge/Babel-282C34?logo=babel&logoColor=F7DF1E" alt="Babel logo" title="Babel" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=61DAFB" alt="Figma logo" title="Figma" height="25" />&nbsp;
+
+And others:
 * Patterns, BEM, CSS-Modules
 
 ## GitHub Stats⭐
