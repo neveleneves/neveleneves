@@ -29,5 +29,5 @@ And others:
 
 ## GitHub Stats⭐
 ![NeveleNeves's GitHub stats](https://github-readme-stats.vercel.app/api?username=neveleneves&show_icons=true&title_color=00E0FF&text_color=FFFFFF&theme=tokyonight&bg_color=000000&icon_color=00E0FF)
-![](https://raw.githubusercontent.com/neveleneves/github-stats-transparent/output/generated/languages.svg)
+![NeveleNeves](https://raw.githubusercontent.com/neveleneves/github-stats-transparent/output/generated/languages.svg)
 
