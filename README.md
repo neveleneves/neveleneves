@@ -2,7 +2,9 @@
 
 ![Profile Preview](https://github.com/neveleneves/neveleneves/blob/master/profile_preview1.png)
 I'm a Front-End Developer of Web. I have a passion for learning and sharing my knowledge with others. If you found value in something I have created, please feel free to give me a shout out on [Linkedin](https://www.linkedin.com/in/neveleneves/)!♥
-<a src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />(https://stackoverflow.com/users/10927329/valentin-briand)&nbsp;
+[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/14217764/max-nikonov)
+&nbsp;
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/neveleneves/)
 
 ## My focus⚡️
 Currently improving my Front-end (ReactJS) and Back-end (NodeJS, ExpressJS) skills.
