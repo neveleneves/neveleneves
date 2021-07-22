@@ -8,17 +8,17 @@ Currently improving my Front-end (ReactJS) and Back-end (NodeJS, ExpressJS) skil
 
 ## Stack of technologies💻
 I have experience with the following technologies:
-* <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />&nbsp;
-* <img src="https://img.shields.io/badge/React.js-282C34?logo=react&logoColor=61DAFB" alt="React.js logo" title="React.js" height="25" />&nbsp;
-* <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/React.js-282C34?logo=react&logoColor=61DAFB" alt="React.js logo" title="React.js" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Express.js-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />&nbsp;
-* <img src="https://img.shields.io/badge/Webpack-282C34?logo=webpack&logoColor=FFFFFF" alt="Webpack logo" title="Webpack" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Webpack-282C34?logo=webpack&logoColor=FFFFFF" alt="Webpack logo" title="Webpack" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Babel-282C34?logo=babel&logoColor=F7DF1E" alt="Babel logo" title="Babel" height="25" />&nbsp;
-* <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />&nbsp;
 * Patterns, BEM, CSS-Modules
-* <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />&nbsp;
+* Figma
 
 ## GitHub Stats⭐
 ![NeveleNeves's GitHub stats](https://github-readme-stats.vercel.app/api?username=neveleneves&show_icons=true&title_color=00E0FF&text_color=FFFFFF&theme=tokyonight&bg_color=000000&icon_color=00E0FF)
