@@ -6,6 +6,7 @@ I'm a Front-End Developer of Web. I have a passion for learning and sharing my k
 [<img src="https://img.shields.io/badge/Telegram-%40nevelenevess-blue">](https://t.me/nevelenevess)
 [<img src="https://img.shields.io/badge/Linkedin-%40neveleneves-blue">](https://www.linkedin.com/in/neveleneves/)
 [<img src="https://img.shields.io/badge/Email-max.nikonov.work@gmail.com-blue">](mailto:max.nikonov.work@gmail.com)
+[<img src="https://img.shields.io/badge/Codewars-%40neveleneves-blue">](https://www.codewars.com/users/neveleneves)
 <img src="https://gpvc.arturio.dev/neveleneves" alt="profile views"> 
 
 ## My focus⚡️
