@@ -20,6 +20,7 @@ I have experience with the following technologies:
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/SASS-282C34?logo=SASS&logoColor=c69" alt="SASS logo" title="SASS" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/React.js-282C34?logo=react&logoColor=61DAFB" alt="React.js logo" title="React.js" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764abc" alt="Redux logo" title="Redux" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Express.js-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Webpack-282C34?logo=webpack&logoColor=8ED5FA" alt="Webpack logo" title="Webpack" height="25" />&nbsp;
@@ -27,7 +28,6 @@ I have experience with the following technologies:
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=F29111" alt="MySQL logo" title="MySQL" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=61DAFB" alt="Figma logo" title="Figma" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764abc" alt="Redux logo" title="Redux" height="25" />&nbsp;
 
 And others:
 * AJAX, REST API
