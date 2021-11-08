@@ -10,7 +10,7 @@ I'm a Front-End Developer of Web. I have a passion for learning and sharing my k
 <img src="https://gpvc.arturio.dev/neveleneves" alt="profile views"> 
 
 ## My focus⚡️
-Currently improving my Front-end (ReactJS) and Back-end (NodeJS, ExpressJS) skills, also I'm learning English.
+Currently improving my Front-end (ReactJS, Redux) and Back-end (NodeJS, ExpressJS) skills, also I'm learning English.
 
 ## Stack of technologies💻
 I have experience with the following technologies:
@@ -27,6 +27,7 @@ I have experience with the following technologies:
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=F29111" alt="MySQL logo" title="MySQL" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=61DAFB" alt="Figma logo" title="Figma" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764abc" alt="Redux logo" title="Redux" height="25" />&nbsp;
 
 And others:
 * AJAX, REST API
