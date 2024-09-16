@@ -10,7 +10,7 @@ I'm a Front-End Developer of Web. I have a passion for learning and sharing my k
 <img src="https://gpvc.arturio.dev/neveleneves" alt="profile views"> 
 
 ## My focus⚡️
-Currently improving my Front-end (ReactJS, Redux) and Back-end (NodeJS, ExpressJS) skills, also I'm learning English.
+Currently improving my Frontend skills, also I'm learning English.
 
 ## Stack of technologies💻
 I have experience with the following technologies:
